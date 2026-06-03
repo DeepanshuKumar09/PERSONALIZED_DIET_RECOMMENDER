@@ -10,4 +10,4 @@ SCALER_X_PATH = BASE_DIR / "C:/Projects/Langchain_Model/Personalized_Diet_Recomm
 SCALER_Y_PATH = BASE_DIR / "C:/Projects/Langchain_Model/Personalized_Diet_Recommendation/assets" / "C:/Projects/Langchain_Model/Personalized_Diet_Recommendation/assets/scaler_y.pkl"
 FEATURES_PATH = BASE_DIR / "C:/Projects/Langchain_Model/Personalized_Diet_Recommendation/assets" / "C:/Projects/Langchain_Model/Personalized_Diet_Recommendation/assets/feature_cols.json"
 
-GEMINI_API_KEY = "AIzaSyAX6DmCxKaCodHQ_Wy44oyxBcQrUEGd1Cs"
+GEMINI_API_KEY = "ENTER_YOUR_API_KEY"
