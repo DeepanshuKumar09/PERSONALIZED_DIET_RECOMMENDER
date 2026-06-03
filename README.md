@@ -1,7 +1,6 @@
-# ArogyaIQ 🥗
-## AI-Powered Personalized Nutrition Intelligence Platform
+## AI-Powered Personalized Nutrition Intelligence Platform 🥗
 
-ArogyaIQ is an end-to-end healthcare AI project that combines Machine Learning, Deep Learning, and Generative AI to provide personalized nutrition recommendations based on patient health metrics, clinical parameters, lifestyle habits, medical history, and dietary preferences.
+Personalized Nutrition Intelligence is an end-to-end healthcare AI project that combines Machine Learning, Deep Learning, and Generative AI to provide personalized nutrition recommendations based on patient health metrics, clinical parameters, lifestyle habits, medical history, and dietary preferences.
 
 The platform predicts personalized nutritional requirements using a trained deep learning model and generates a personalized 7-day meal plan based on the user's health condition and selected cuisine preference.
 
@@ -240,8 +239,8 @@ ArogyaIQ/
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
-cd ArogyaIQ
+git clone <https://github.com/DeepanshuKumar09/PERSONALIZED_DIET_RECOMMENDER>
+cd PERSONALIZED_DIET_RECOMMENDER
 ```
 
 Install dependencies:
@@ -318,4 +317,4 @@ AI Meal Plan Generation
 
 Deepanshu Kumar
 
-Data Science | Machine Learning | Artificial Intelligence | Healthcare Analytics
+Data Science | Machine Learning | Artificial Intelligence 
