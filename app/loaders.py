@@ -11,7 +11,6 @@ from config import (
 )
 @st.cache_resource
 def load_resources():
-
     model = tf.keras.models.load_model(
         MODEL_PATH,
         compile=False
@@ -26,7 +25,6 @@ def load_resources():
     )
 
     with open(FEATURES_PATH, "r") as f:
-
         feature_cols = json.load(f)
 
     return (
